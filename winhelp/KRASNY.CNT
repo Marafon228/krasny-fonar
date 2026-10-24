@@ -1,0 +1,27 @@
+:Base KRASNY.HLP>main
+:Title Справка — Красный фонарь
+:Index Справка — Красный фонарь=KRASNY.HLP
+1 Содержание=IDH_CONTENTS
+1 Знакомство с программой
+2 Назначение программы=IDH_OVERVIEW
+2 Рабочее окно программы=IDH_WORKPLACE
+2 Горячие клавиши=IDH_HOTKEYS
+1 Окна программы
+2 Журнал заказов=IDH_FORM_ORDERS
+2 Текущий заказ=IDH_FORM_ORDER
+2 Список гостей=IDH_FORM_GUESTS
+2 Карточка гостя=IDH_FORM_GUEST
+2 Меню ресторана=IDH_FORM_DISHES
+2 Карточка блюда=IDH_FORM_DISH
+2 Экран кухни=IDH_FORM_KITCHEN
+1 Как выполнить…
+2 Как оформить новый заказ=IDH_HOW_NEW_ORDER
+2 Как изменить позицию заказа=IDH_HOW_EDIT_ITEM
+2 Как привязать гостя к заказу=IDH_HOW_ATTACH_GUEST
+2 Как зарегистрировать гостя=IDH_HOW_NEW_GUEST
+2 Как принять оплату=IDH_HOW_PAY
+2 Как напечатать чек=IDH_HOW_PRINT
+2 Как передать заказ на кухню=IDH_HOW_KITCHEN
+2 Как найти заказ=IDH_HOW_FIND_ORDER
+1 Глоссарий
+2 Глоссарий=IDH_GLOSSARY

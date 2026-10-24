@@ -1,0 +1,29 @@
+; ѕроект справки Ђ расный фонарь Ч  ассаї дл€ Microsoft Help Workshop (HCW/HCRTF)
+[OPTIONS]
+LCID=0x419 0x0 0x0 ; –усский
+REPORT=Yes
+CONTENTS=IDH_CONTENTS
+TITLE=—правка Ч  расный фонарь
+COPYRIGHT=”чебный проект, 2026
+HLP=.\KRASNY.HLP
+CNT=.\KRASNY.CNT
+BMROOT=.\IMG
+ERRORLOG=.\KRASNY.LOG
+
+[FILES]
+KRASNY.RTF
+
+[WINDOWS]
+main="—правка Ч  расный фонарь",(120,60,760,900),60676,(r16777215),(r15790335),f2
+
+[MAP]
+IDH_FORM_ORDERS	1001
+IDH_FORM_ORDER	1002
+IDH_FORM_GUESTS	1003
+IDH_FORM_GUEST	1004
+IDH_FORM_DISHES	1005
+IDH_FORM_DISH	1006
+IDH_FORM_KITCHEN	1007
+
+[CONFIG]
+BrowseButtons()

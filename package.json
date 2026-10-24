@@ -1,0 +1,8 @@
+{
+  "name": "krasny-fonar-tools",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "docx": "^9.14.0"
+  }
+}
